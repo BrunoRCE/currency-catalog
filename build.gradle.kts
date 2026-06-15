@@ -16,7 +16,7 @@ publishing {
             from(components["java"])
             groupId = "com.github.brunorce"
             artifactId = "currency-catalog"
-            version = "1.0.0"
+            version = "1.0.1"
         }
     }
 }
